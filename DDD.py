@@ -4,3 +4,4 @@ if ddd in cidades:
     print(cidades[ddd])
 else: 
     print('DDD nao cadastrado')
+print('-=' * 19)
